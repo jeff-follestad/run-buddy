@@ -146,7 +146,7 @@ section {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
-    text-align: center
+    text-align: center;
 }
 .step {
     margin: 50px auto;
@@ -184,8 +184,8 @@ section {
     font-size: 26px;
     line-height: 1.5;
     color: #024e76;
-
 }
+
 .step-img {
     flex: 1 12%;
     margin-right: 20px;
@@ -252,7 +252,6 @@ section {
 
 .trainer-bio p {
     font-size: 17px;
-    
 }
 
 .text-left {
@@ -289,8 +288,7 @@ section {
     font-size: 32px;
 }
 
-.contact-info p, 
-.contact-info address {
+.contact-info p, .contact-info address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 16px;
